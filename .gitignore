@@ -1,0 +1,33 @@
+## OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+## Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+## Node / Frontend (just in case)
+node_modules/
+dist/
+build/
+
+## Environment / secrets
+.env
+.env.*
+
+## Cursor / IDE project data
+.cursor/
+
